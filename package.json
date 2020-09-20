@@ -1,0 +1,28 @@
+{
+  "name": "dev-ops-me",
+  "version": "1.0.0",
+  "description": "dev-ops tips",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zyonet/dev-ops-me.git"
+  },
+  "keywords": [
+    "dev-ops",
+    "gitbook"
+  ],
+  "author": "Yong Zhao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zyonet/dev-ops-me/issues"
+  },
+  "homepage": "https://github.com/zyonet/dev-ops-me#readme",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-gh-pages": "^0.5.4",
+    "gulp-load-plugins": "^2.0.4"
+  }
+}
