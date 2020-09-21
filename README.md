@@ -2,7 +2,7 @@
 
 ## Repository of daily dev-ops tools/configurations/logs/tips
 
-{% page-ref page="config/" %}
+{% page-ref page="docker_desktop/" %}
 
 {% page-ref page="jenkins.md" %}
 
