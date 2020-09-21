@@ -6,10 +6,10 @@ This book is generated using [node v8.17.0](https://nodejs.org/en/download/relea
 
 * [Bash](bash/)
 * [Code](code/)
-* [Docker Desktop](https://github.com/zyonet/dev-ops-me/tree/91d15032c9b394bf2acae65cd932e5ea10f5e112/docker_desktop/README.md)
+* [Docker Desktop](docker-desktop/)
 * [GitHub](github/)
 * [Jenkins](jenkins/)
-* [npm](npm-1/)
+* [npm](npm/)
 * [Powershell](powershell/)
 * [Visual Studio](visual-studio/)
 
