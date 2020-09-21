@@ -1,14 +1,17 @@
 # Introduction
 
-## Repository of daily dev-ops tools/configurations/logs/tips
+> Configurations, logs, tips of daily dev-ops tools and know-hows.
 
-{% page-ref page="docker_desktop/" %}
+This book is generated using [node v8.17.0](https://nodejs.org/en/download/releases/) and [gitbook 2.6.9](https://www.npmjs.com/package/gitbook/v/2.6.9)
 
-{% page-ref page="jenkins.md" %}
-
-{% page-ref page="npm.md" %}
-
-{% page-ref page="github.md" %}
+* [Bash](bash.md)
+* [Code](code.md)
+* [Docker Desktop](docker_desktop/README.md)
+* [GitHub](github.md)
+* [Jenkins](jenkins.md)
+* [npm](npm.md)
+* [Powershell](powershell.md)
+* [Visual Studio](visual-studio.md)
 
 
 
