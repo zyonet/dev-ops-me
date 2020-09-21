@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Instroduction](README.md)
-* [Configurations](Configurations\Config.md)
+* [Introduction](README.md)
+* [Configurations](config.md)
 
